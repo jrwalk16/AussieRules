@@ -34,7 +34,9 @@ a {
 img {
 	max-width: 100%;
 }
-
+footer {
+	background-color: turquoise;
+}
 /* ---- Navigation ---- */
 
 .name {
